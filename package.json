@@ -1,0 +1,9 @@
+{
+  "name": "iiow-tools",
+  "version": "0.0.1",
+  "description": "Tools for working with IIslands of WAR Saves.",
+  "main": "index.js",
+  "repository": "https://github.com/WilsontheWolf/iiow-tools",
+  "author": "WilsontheWolf",
+  "license": "MIT"
+}
